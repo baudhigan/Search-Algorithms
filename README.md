@@ -19,7 +19,7 @@ To write a program to perform linear search and binary search using python progr
 ## Program:
 i)	#Use a linear search method to match the item in a list.
 ```
-#Developed by: Baudhigan D
+#Developed by: BAUDHIGAN D
 #Register number:212223230028
 #Program : Linear search
 def binarySearchIter(array, k, low, high):
@@ -44,6 +44,9 @@ else:
 ```
 ii)	# Find the element in a list using Binary Search(Iterative Method).
 ```
+#Developed by: BAUDHIGAN D
+#Register number:212223230028
+#Program : Linear search
 def binarysearch(array, k, low, high):
     while low <= high:
         mid = low + (high - low)//2
@@ -67,6 +70,9 @@ else:
 ```
 iii)	# Find the element in a list using Binary Search (recursive Method).
 ```
+#Developed by: BAUDHIGAN D
+#Register number:212223230028
+#Program : Linear search
 def binarysearch(array, k, low, high):
     if low <= high:
         mid = low + (high - low)//2
